@@ -1,10 +1,10 @@
-# Inquire Tmux
+# Justrhysism Tap
 
 ## How do I install these formulae?
 
-`brew install inquire/tmux/<formula>`
+`brew install justrhysism/tmux/<formula>`
 
-Or `brew tap inquire/tmux` and then `brew install <formula>`.
+Or `brew tap justrhysism/tmux` and then `brew install <formula>`.
 
 ## Documentation
 
