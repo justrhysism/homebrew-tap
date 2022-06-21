@@ -1,4 +1,4 @@
-# Justrhysism Tap
+# Custom Tap
 
 ## How do I install these formulae?
 
