@@ -2,9 +2,9 @@
 
 ## How do I install these formulae?
 
-`brew install justrhysism/tmux/<formula>`
+`brew install justrhysism/tap/<formula>`
 
-Or `brew tap justrhysism/tmux` and then `brew install <formula>`.
+Or `brew tap justrhysism/tap` and then `brew install <formula>`.
 
 ## Documentation
 
